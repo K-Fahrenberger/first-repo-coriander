@@ -12,5 +12,5 @@ SpicedAcademy
 - third item
 
 ## Link to page
-[Markdown Guide] (https://www.markdownguide.org/cheat-sheet)
+[Markdown Guide](https://www.markdownguide.org/cheat-sheet)
  	[title](https://www.example.com)
