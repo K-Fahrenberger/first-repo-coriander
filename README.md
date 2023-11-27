@@ -1,4 +1,7 @@
 # Learning Github and Markdown
 SpicedAcademy
 ## This is a subtitle
-### Titel 3
+### order list
+1. first item
+2. second item
+3. third item
