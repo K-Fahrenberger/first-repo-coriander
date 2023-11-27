@@ -1,2 +1,2 @@
-# first-repo-coriander
+# Learning Github and Markdown
 SpicedAcademy
