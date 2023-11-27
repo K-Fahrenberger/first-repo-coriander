@@ -10,3 +10,6 @@ SpicedAcademy
 - first item
 - second item
 - third item
+
+## Link to page
+[Markdown Guide] (https://www.markdownguide.org/cheat-sheet/)
