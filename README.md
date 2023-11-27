@@ -13,7 +13,11 @@ SpicedAcademy
 
 ## Link to page
 [Markdown Guide](https://www.markdownguide.org/cheat-sheet)
- 	[title](https://www.example.com)
 ![Pink](./darksidethumb.jpg)
 
-`line` of code `name=prettier`
+'line' of code `name=prettier`
+
+### Block code
+```
+let cohort="Coriander"
+```
