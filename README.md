@@ -19,5 +19,6 @@ SpicedAcademy
 
 ### Block code
 ```
-let cohort="Coriander"
+let cohort="Coriander";
+let numberOfStudents= 17;
 ```
